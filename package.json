@@ -1,0 +1,23 @@
+{
+  "name": "chaplin-boilerplate-npm",
+  "version": "1.0.0",
+  "description": "Chaplin no bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chaplin", "npm"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chaplin": "^1.2.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.12",
+    "lodash": "^4.17.11",
+    "requirejs": "^2.3.6",
+    "requirejs-text": "^2.0.15"
+  }
+}
